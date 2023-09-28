@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\bin\Debug\Bolum1-uygulama15.exe.config
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\bin\Debug\Bolum1-uygulama15.exe
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\bin\Debug\Bolum1-uygulama15.pdb
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1-uygulama15.csproj.AssemblyReference.cache
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1_uygulama15.Form1.resources
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1_uygulama15.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1-uygulama15.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1-uygulama15.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1-uygulama15.exe
+C:\Users\Hilal\source\repos\Bolum1-uygulama15\Bolum1-uygulama15\obj\Debug\Bolum1-uygulama15.pdb
