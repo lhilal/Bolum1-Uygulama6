@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\bin\Debug\Bolum2-uygulama7.exe.config
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\bin\Debug\Bolum2-uygulama7.exe
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\bin\Debug\Bolum2-uygulama7.pdb
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2_uygulama7.Form1.resources
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2_uygulama7.Properties.Resources.resources
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.exe
+C:\Users\User\source\repos\Bolum2-uygulama7\Bolum2-uygulama7\obj\Debug\Bolum2-uygulama7.pdb
